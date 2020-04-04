@@ -9,13 +9,13 @@ a {
     font-size: 16px;
 }
 
-h1 {
+.header--main {
     font-size: 50px;
     font-weight: normal;
     color: white;
 }
 
-h2 {
+.header--secondary {
     color: white;
     font-size: 41px;
     font-weight: 300;
@@ -25,7 +25,7 @@ footer {
     text-align: right;
 }
 
-h4{
+.header--sub-head {
     font-size: 21px;
     color: gray;
     font-weight: normal;
