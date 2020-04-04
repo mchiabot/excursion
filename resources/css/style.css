@@ -1,6 +1,7 @@
 body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: center;
+    background-color: black;
 }
 
 a {
@@ -12,6 +13,12 @@ h1 {
     font-size: 50px;
     font-weight: normal;
     color: white;
+}
+
+h2 {
+    color: white;
+    font-size: 41px;
+    font-weight: 300;
 }
 
 footer {
@@ -33,4 +40,9 @@ p{
 
 img {
     display: block;
+    margin: auto;
+}
+
+.phoneIcon {
+    margin-top: 30px;
 }
